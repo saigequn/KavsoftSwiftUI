@@ -30,6 +30,8 @@ Episode - 4: https://www.youtube.com/watch?v=J_P5Aep2DPI
 Episode - 5: https://www.youtube.com/watch?v=MQTcDTiP9M4
 Final Episode: https://www.youtube.com/watch?v=qQ3NGkv8O8c
 
+4. SwiftUI Animated Toasts | HUDs | Xcode 15
+https://www.youtube.com/watch?v=b6FVOXZT8So
 
 
 
