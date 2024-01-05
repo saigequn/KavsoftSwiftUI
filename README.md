@@ -37,6 +37,9 @@ https://www.youtube.com/watch?v=b6FVOXZT8So
 5. Complex Hero Animation With Synchronized ScrollViews
 https://www.youtube.com/watch?v=M-iWP2l9-Xg
 
+6. Interactive Widgets - Intents
+https://www.youtube.com/watch?v=s6DMa3Jqmsk
+
 
 
 
