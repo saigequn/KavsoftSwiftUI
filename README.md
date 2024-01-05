@@ -56,5 +56,9 @@ github: https://github.com/saigequn/KavsoftSwiftUI/tree/main/ShineEffect
 8.SwiftUI: Infinite Looping ScrollView
 https://www.youtube.com/watch?v=lyuo59840qs
 
+github: https://github.com/saigequn/KavsoftSwiftUI/tree/main/InfiniteLoopScrollView
 
+
+9. Simple Drop Down Picker 
+https://www.youtube.com/watch?v=1g2OymIXtPY
 
