@@ -73,4 +73,10 @@ https://www.youtube.com/watch?v=1g2OymIXtPY
 https://www.youtube.com/watch?v=K8VnH2eEnK4
 
 
+11. Building Complex Scroll Animations
+https://www.youtube.com/watch?v=FvgmcwjDFvQ
+
+
+
+
 
