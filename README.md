@@ -11,6 +11,12 @@ https://www.youtube.com/@Kavsoft
 https://www.youtube.com/watch?v=hvD_AafLGc0
 
 
+2. Customized Animated Paywalls 
+https://www.youtube.com/watch?v=1rc7jjCyNO4
+
+
+
+
 
 ## 2023年
 1. SwiftUI Parallax Scroll Effect
@@ -61,4 +67,10 @@ github: https://github.com/saigequn/KavsoftSwiftUI/tree/main/InfiniteLoopScrollV
 
 9. Simple Drop Down Picker 
 https://www.youtube.com/watch?v=1g2OymIXtPY
+
+
+10. Swipe Actions For ScrollView - No Gestures!
+https://www.youtube.com/watch?v=K8VnH2eEnK4
+
+
 
