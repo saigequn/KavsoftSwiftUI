@@ -81,6 +81,14 @@ https://www.youtube.com/watch?v=FvgmcwjDFvQ
 https://www.youtube.com/watch?v=LCDIALAp_X8
 
 
+13. Building Scrollable Tab View With New iOS 17 API's 
+https://www.youtube.com/watch?v=UQ8ZQIhi8ow
+
+
+14. Building Complex Scroll Animations With New iOS 17 API's 
+https://www.youtube.com/watch?v=ytRim2TSdyY
+
+
 
 
 
