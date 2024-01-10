@@ -50,11 +50,10 @@ struct ReelView: View {
                     print(bundleID)
                     
                     let videoURL = URL(filePath: bundleID)
-//                    let playerItem = AVPlayerItem(url: videoURL)
-//                    let queue = AVQueuePlayer(playerItem: playerItem)
-//                    looper = AVPlayerLooper(player: queue, templateItem: playerItem)
-//                    player = queue
-                    player = AVPlayer(url: videoURL)
+                    let playerItem = AVPlayerItem(url: videoURL)
+                    let queue = AVQueuePlayer(playerItem: playerItem)
+                    looper = AVPlayerLooper(player: queue, templateItem: playerItem)
+                    player = queue
                 }
                 .onDisappear() {
                     player = nil

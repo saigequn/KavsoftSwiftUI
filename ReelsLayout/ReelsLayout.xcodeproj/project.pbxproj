@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		140960E12B4E4B5C00D7A371 /* Reel1.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 146C18982B4D17D2009D3798 /* Reel1.MP4 */; };
+		140960E22B4E4B5C00D7A371 /* Reel2.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 146C18992B4D17D2009D3798 /* Reel2.MP4 */; };
+		140960E32B4E4B5C00D7A371 /* Reel3.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 146C189A2B4D17D2009D3798 /* Reel3.MP4 */; };
 		146C188A2B4D1775009D3798 /* ReelsLayoutApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146C18892B4D1775009D3798 /* ReelsLayoutApp.swift */; };
 		146C188C2B4D1775009D3798 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146C188B2B4D1775009D3798 /* ContentView.swift */; };
 		146C188E2B4D1778009D3798 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 146C188D2B4D1778009D3798 /* Assets.xcassets */; };
@@ -173,6 +176,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				140960E12B4E4B5C00D7A371 /* Reel1.MP4 in Resources */,
+				140960E22B4E4B5C00D7A371 /* Reel2.MP4 in Resources */,
+				140960E32B4E4B5C00D7A371 /* Reel3.MP4 in Resources */,
 				146C18912B4D1778009D3798 /* Preview Assets.xcassets in Resources */,
 				146C188E2B4D1778009D3798 /* Assets.xcassets in Resources */,
 			);
