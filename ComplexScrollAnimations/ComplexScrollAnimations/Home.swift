@@ -25,7 +25,6 @@ struct Home: View {
                         CardView()
                     }
                 }
-                .padding(0)
             }
         }
         .scrollIndicators(.hidden)
@@ -151,7 +150,6 @@ struct Home: View {
         guard let month = calendar.date(byAdding: .month, value: increment ? 1 : -1, to: selectedMonth) else { return }
         selectedMonth = month
     }
-    
     
     var selectedMonthDates: [Day] {
         return extractDates(selectedMonth)

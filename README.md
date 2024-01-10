@@ -77,6 +77,10 @@ https://www.youtube.com/watch?v=K8VnH2eEnK4
 https://www.youtube.com/watch?v=FvgmcwjDFvQ
 
 
+12. Building Instagram Reels Layout With iOS 17 APIs - Vertical Paging
+https://www.youtube.com/watch?v=LCDIALAp_X8
+
+
 
 
 
