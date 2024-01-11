@@ -53,13 +53,13 @@ https://www.youtube.com/watch?v=s6DMa3Jqmsk
 github: https://github.com/saigequn/KavsoftSwiftUI/tree/main/WidgetsIntentsDemo
 
 
-7. SwiftUI Shine Effect - Custom View Modifier
+7. Shine Effect - Custom View Modifier
 https://www.youtube.com/watch?v=UETjgKWWB1I
 
 github: https://github.com/saigequn/KavsoftSwiftUI/tree/main/ShineEffect
 
 
-8.SwiftUI: Infinite Looping ScrollView
+8.Infinite Looping ScrollView
 https://www.youtube.com/watch?v=lyuo59840qs
 
 github: https://github.com/saigequn/KavsoftSwiftUI/tree/main/InfiniteLoopScrollView
@@ -89,6 +89,8 @@ https://www.youtube.com/watch?v=UQ8ZQIhi8ow
 https://www.youtube.com/watch?v=ytRim2TSdyY
 
 
+15. Building Notes App + SwiftData + CRUD
+https://www.youtube.com/watch?v=Pmd6L0BaeXs
 
 
 
