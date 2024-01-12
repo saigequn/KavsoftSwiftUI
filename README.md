@@ -95,3 +95,14 @@ https://www.youtube.com/watch?v=Pmd6L0BaeXs
 
 16. Resizable Custom Tab Bar for macOS
 https://www.youtube.com/watch?v=vxY41_HmgKI
+
+
+17. Lock SwiftUI View With Biometric/Custom Number Lock - Local Authentication
+https://www.youtube.com/watch?v=H7LH5xYUn6s
+
+
+
+
+
+
+
