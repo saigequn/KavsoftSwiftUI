@@ -19,14 +19,14 @@ https://www.youtube.com/watch?v=1rc7jjCyNO4
 
 
 ## 2023年
-1. SwiftUI Parallax Scroll Effect
+1. Parallax Scroll Effect
 https://www.youtube.com/watch?v=knd9-N7Msdk
 
-2. SwiftUI App Theme Switcher - Dark Mode Switch 
+2. App Theme Switcher - Dark Mode Switch 
 https://www.youtube.com/watch?v=aHtDymtNdSs
 
 
-3. SwiftUI Expense Tracker App
+3. Expense Tracker App
 Widgets | App Groups | Charts |  SwiftData | App Lock | 
 
 Episode - 1: https://www.youtube.com/watch?v=vTmeKxEVY4A
@@ -36,7 +36,7 @@ Episode - 4: https://www.youtube.com/watch?v=J_P5Aep2DPI
 Episode - 5: https://www.youtube.com/watch?v=MQTcDTiP9M4
 Final Episode: https://www.youtube.com/watch?v=qQ3NGkv8O8c
 
-4. SwiftUI Animated Toasts | HUDs | Xcode 15
+4. Animated Toasts | HUDs | Xcode 15
 https://www.youtube.com/watch?v=b6FVOXZT8So
 
 
@@ -93,4 +93,5 @@ https://www.youtube.com/watch?v=ytRim2TSdyY
 https://www.youtube.com/watch?v=Pmd6L0BaeXs
 
 
-
+16. Resizable Custom Tab Bar for macOS
+https://www.youtube.com/watch?v=vxY41_HmgKI
