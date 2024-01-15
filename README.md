@@ -117,5 +117,11 @@ https://www.youtube.com/watch?v=H7LH5xYUn6s
 https://www.youtube.com/watch?v=1h5NjJbheEU
 
 
+19. Navigation Stack Interactive Pop Gesture - Full Swipe Pop
+https://www.youtube.com/watch?v=4ceKPSTlL4I
+
+
+
+
 
 
