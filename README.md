@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=1rc7jjCyNO4
 https://www.youtube.com/watch?v=Fg1VQsF1RQw
 
 
+4. CoverFlow
+https://www.youtube.com/watch?v=SeovmdV4_cw
 
 
 
