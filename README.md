@@ -121,7 +121,8 @@ https://www.youtube.com/watch?v=1h5NjJbheEU
 https://www.youtube.com/watch?v=4ceKPSTlL4I
 
 
-
+20. Changing Status Bar Style in 5 Min's
+https://www.youtube.com/watch?v=UqiNGWpnGbg
 
 
 
