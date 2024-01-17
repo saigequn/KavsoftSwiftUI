@@ -137,4 +137,8 @@ https://www.youtube.com/watch?v=4dbnfyXILc4
 https://www.youtube.com/watch?v=kZKI-BImtLE
 
 
+24. Animated Carousel Slider With Paging Control 
+https://www.youtube.com/watch?v=IK8yQMeyhs4
+
+
 
