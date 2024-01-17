@@ -132,3 +132,9 @@ https://www.youtube.com/watch?v=MPp7b9bIUPY
 22. Telegram Dark Mode Animation Challenge
 https://www.youtube.com/watch?v=4dbnfyXILc4
 
+
+23. WatchOS 10 Heart App Animation Using SwiftUI
+https://www.youtube.com/watch?v=kZKI-BImtLE
+
+
+
