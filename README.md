@@ -149,3 +149,5 @@ https://www.youtube.com/watch?v=LaimspStHzk
 https://www.youtube.com/watch?v=6aw1KaUg4MY
 
 
+27. Hide Navigation Bar On Swipe
+https://www.youtube.com/watch?v=_oFMZaXIgPc
