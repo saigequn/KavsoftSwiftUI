@@ -151,3 +151,10 @@ https://www.youtube.com/watch?v=6aw1KaUg4MY
 
 27. Hide Navigation Bar On Swipe
 https://www.youtube.com/watch?v=_oFMZaXIgPc
+
+
+28. Animated Tab Icons - Animated SF Symbols 
+https://www.youtube.com/watch?v=NBPBe7MmPJ0
+
+
+
