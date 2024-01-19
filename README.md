@@ -162,7 +162,13 @@ https://www.youtube.com/watch?v=zHtB8mHPLDU
 
 
 30. Placing Tab Bar Over Sheet’s | Apple Map’s Bottom Sheet 
-https://www.youtube.com/watch?v=8Ys83qvnDvE&t=827s
+https://www.youtube.com/watch?v=8Ys83qvnDvE
+
+
+31. Drag & Drop Image Picker
+https://www.youtube.com/watch?v=p1U13Ch8ykk
+
+
 
 
 
