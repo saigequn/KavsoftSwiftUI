@@ -176,3 +176,6 @@ https://www.youtube.com/watch?v=pJ2P6q7Pf98
 33. Parallax Carousel Scroll
 https://www.youtube.com/watch?v=3zBSgXoSugU
 
+
+34. Dynamic Sheet Height
+https://www.youtube.com/watch?v=Y4Vm61vrhTE
