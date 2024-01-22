@@ -173,5 +173,6 @@ https://www.youtube.com/watch?v=p1U13Ch8ykk
 https://www.youtube.com/watch?v=pJ2P6q7Pf98
 
 
-
+33. Parallax Carousel Scroll
+https://www.youtube.com/watch?v=3zBSgXoSugU
 
