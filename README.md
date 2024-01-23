@@ -31,6 +31,7 @@ https://www.youtube.com/watch?v=SeovmdV4_cw
 
 
 ## 2023年
+
 1. Parallax Scroll Effect
 https://www.youtube.com/watch?v=knd9-N7Msdk
 
@@ -182,5 +183,19 @@ https://www.youtube.com/watch?v=Y4Vm61vrhTE
 
 35. Login UI Kit
 https://www.youtube.com/watch?v=g4FeOJfAS-4
+
+
+36. Animated Tags View - Layout API
+https://www.youtube.com/watch?v=FzL11vRhzs8
+
+
+
+
+
+
+
+
+
+
 
 
