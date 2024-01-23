@@ -189,8 +189,8 @@ https://www.youtube.com/watch?v=g4FeOJfAS-4
 https://www.youtube.com/watch?v=FzL11vRhzs8
 
 
-
-
+37. Scroll to Hide Tab Bar
+https://www.youtube.com/watch?v=Q0rb4M6n2ns
 
 
 
