@@ -193,9 +193,12 @@ https://www.youtube.com/watch?v=FzL11vRhzs8
 https://www.youtube.com/watch?v=Q0rb4M6n2ns
 
 
+38. TipKit
+https://www.youtube.com/watch?v=jmQcxQNQgkk
 
 
-
+39. Radial Layout With Gestures
+https://www.youtube.com/watch?v=sR3oUASbK5g
 
 
 
