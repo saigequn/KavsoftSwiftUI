@@ -33,6 +33,8 @@ struct ContentView: View {
                 }
                 .navigationTitle("Home")
             }
+            .toolbar(tabState, for: .tabBar)
+            .animation(.easeInOut(duration: 0.3), value: tabState)
             .tabItem {
                 Image(systemName: "house")
                 Text("Home")
