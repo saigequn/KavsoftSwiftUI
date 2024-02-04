@@ -7,25 +7,20 @@ https://www.youtube.com/@Kavsoft
 ## 2024年
 
 
-1. SwiftUI Animated Paging Indicators - iOS 17 APIs - Xcode 15
-https://www.youtube.com/watch?v=hvD_AafLGc0
-
-
-2. Customized Animated Paywalls 
-https://www.youtube.com/watch?v=1rc7jjCyNO4
-
-
-3. Custom File Extensions
-https://www.youtube.com/watch?v=Fg1VQsF1RQw
-
+5. Floating Tab Bar for macOS
+https://www.youtube.com/watch?v=DA2EMt38iLg
 
 4. CoverFlow
 https://www.youtube.com/watch?v=SeovmdV4_cw
 
+3. Custom File Extensions
+https://www.youtube.com/watch?v=Fg1VQsF1RQw
 
+2. Customized Animated Paywalls 
+https://www.youtube.com/watch?v=1rc7jjCyNO4
 
-
-
+1. SwiftUI Animated Paging Indicators - iOS 17 APIs - Xcode 15
+https://www.youtube.com/watch?v=hvD_AafLGc0
 
 
 
