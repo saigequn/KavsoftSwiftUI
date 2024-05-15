@@ -4,8 +4,34 @@ https://www.youtube.com/@Kavsoft
 
 
 
+
+
+
+
+
 ## 2024年
 
+
+### 5月
+
+Photos App Interaction Part 2 ｜ Swipe To Dismiss and Bottom Paging Indicator
+https://www.youtube.com/watch?v=YIfg7RD0h38
+
+
+Photos App Transition Part 1 ｜ Synchronized Hero Effect Between Home and Detail ScrollView
+https://www.youtube.com/watch?v=ktaGsPwGZpA
+
+
+Pinterest Grid Animation
+https://www.youtube.com/watch?v=fBCu7rM5Vkw
+
+
+DatePicker TextField Input Views
+https://www.youtube.com/watch?v=wnrtI4qXghc
+
+
+
+### 1月
 
 5. Floating Tab Bar for macOS
 https://www.youtube.com/watch?v=DA2EMt38iLg
